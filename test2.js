@@ -8,5 +8,7 @@ var diff = 2;
 test + diff;
 asdaasdad
 test
+console.log('use source map to do the versio control');
+
 
 
