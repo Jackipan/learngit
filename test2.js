@@ -6,5 +6,7 @@ test2;
 var test = 1;
 var diff = 2;
 test + diff;
-asda
+asdaasdad
+test
+
 
